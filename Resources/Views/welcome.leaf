@@ -1,65 +1,76 @@
 #extend("base")
 
+#export("title") { Alex Rudavka }
 
 #export("content") {
 <body id="grad">
 
+<div class="macbook">
+    <div class="container">
+    </div>
+</div>
+
 <div class="container" >
 
-<div class="text">
-Hi! My name is Oleksandr. I code with love for <b>iOS</b> using <i>Swift & Obj-C</i>.
+    <div class="text">
+    Hi! My name is Oleksandr (Alex). I code with love for <b>iOS</b> using <i>Swift and Obj-C</i>.
+    </div>
+
+    <div class="text small">I am self-taught iOS Engineer with 2+ years of professional experience. <br/>
+    If you want to talk to me - feel free to use any links below or <a href="mailto:roudique@gmail.com">email me</a>.
+    </div>
+
+    <div class="text smallest">
+    Currently I live in <b>Cambridge</b>, Ontario, Canada🇨🇦 and work at <a target="_blank" href="https://www.reebee.com">reebee</a>. <br/>I moved here recently (August 2016), before that I lived in <b>Kiev</b>, Ukraine🇺🇦.
+    </div>
+
+    <div class="column">
+    <div class="hover">
+    <a target="_blank" href="https://www.twitter.com/roudique" >
+    <img src="vector_logos_inverted/twitter-vector.png"></a>
+    </div>
+    </div>
+
+
+    <div class="column">
+    <div class="hover">
+    <a target="_blank" href="https://github.com/roudique">
+    <img src="vector_logos_inverted//github-vector.png"></a>
+    </div>
+    </div>
+
+    <div class="column">
+    <div class="hover">
+    <a target="_blank" href="https://www.linkedin.com/in/roudique">
+    <img src="vector_logos_inverted//in.png"></a>
+    </div>
+    </div>
+
+    <div class="column">
+    <div class="hover">
+    <a target="_blank" href="https://facebook.com/roudique">
+    <img src="vector_logos_inverted//facebook.png"></a>
+    </div>
+    </div>
+
+    <div class="column">
+    <div class="hover">
+    <a target="_blank" href="https://instagram.com/roudique">
+    <img src="vector_logos_inverted//instagram.png"></a>
+    </div>
+    </div>
+    <!---
+    <div class="moreinfo">
+    More info below<br>
+    <img src="images//arrow.png" width=90px>
+    </div>
 </div>
 
-<div class="text small">I have ~2 years of professional iOS programming experience and 4 years of coding in general. <br/>
-If you want to talk to me - feel free to use any links below or <a href="mailto:roudique@gmail.com">email me</a> or call me  +1 (226) 972-2201.
-</div>
 
-<div class="text smallest">
-Currently I live in <b>Cambridge</b>, Ontario, Canada🇨🇦 and work at <a target="_blank" href="https://www.reebee.com">reebee</a>. <br/>I moved here recently (August 2016), before that I lived in <b>Kiev</b>, Ukraine🇺🇦.
-</div>
-
-<div class="column">
-<div class="hover">
-<a target="_blank" href="https://www.twitter.com/roudique" >
-<img src="vector_logos/twitter-vector.png"></a>
-</div>
-</div>
-
-
-<div class="column">
-<div class="hover">
-<a target="_blank" href="https://github.com/roudique">
-<img src="vector_logos//github-vector.png"></a>
-</div>
-</div>
-
-<div class="column">
-<div class="hover">
-<a target="_blank" href="https://www.linkedin.com/in/roudique">
-<img src="vector_logos//in.png"></a>
-</div>
-</div>
-
-<div class="column">
-<div class="hover">
-<a target="_blank" href="https://facebook.com/roudique">
-<img src="vector_logos//facebook.png"></a>
-</div>
-</div>
-
-<div class="column">
-<div class="hover">
-<a target="_blank" href="https://instagram.com/roudique">
-<img src="vector_logos//instagram.png"></a>
-</div>
-</div>
-
-</div>
-
-<!--
 <div class="contributions">
 <a href="http://github.com/roudique" class="gh-contributions" data-gh-username="roudique" target="_blank">roudique's contributions</a><script src="https://ikuwow.github.io/yourcontributions/widget.min.js"></script>
 </div>
--->
+     --->
+
 }
 
