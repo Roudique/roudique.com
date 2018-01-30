@@ -1,0 +1,47 @@
+#extend("base")
+
+#export("title") { Alex Rudavka - Portfolio}
+#export("css") {
+    <link rel="stylesheet" href="/styles/bootstrap.min.css">
+        <link rel="stylesheet" href="/styles/portfolio.css">
+
+
+}
+#export("content") {
+
+<div class="jumbotron text-center">
+    <h1>Portfolio</h1>
+    <h3><a href="../">Alexander Rudavka</a></h3>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 phone"><img class="img-responsive" src="screenshots/reebee.png"></div>
+        
+        <div class="col-md-6">
+            <div class="proj-description">
+            <a href="https://itunes.apple.com/ca/app/reebee/id558297215?mt=8" target="_blank">
+                <img src="appicons/appicon_reebee.png" class="app-icon"></a>
+            
+            <h2>reebee</h2>
+            <div class="brief">I worked on <a href="https://www.reebee.com/" target="_blank">reebee's</a> iOS application full-time. Reebee is a platform for digital flyers and helps users save time and money while shopping. App has 500k+ monthly users only on iOS so development process was very thorough.</div>
+            
+            <div class="my-role"> <h3>My Role:</h3>
+            Worked upon existing solid codebase. Wrote few features which led the app to get featured by Apple and increase monthly active users by 100k.
+            </div>
+            
+            <div class="technologies"><h3>Technologies </h3>
+            Obj-C, Swift, Core Data, NSURLSession for networking, UIKit/Core Graphics for animation, SiriKit (Lists and Notes Intent), Today Extension.
+            </div>
+            
+            <a href="https://itunes.apple.com/us/app/school-payit/id1263274612?mt=8" target="_blank">
+                
+                <button class="btn btn-default app-store-button" type="button"></button></a>
+            <button id="more-screens-one" class="btn btn-default more-screens-btn" type="button">More Screens</button>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+}

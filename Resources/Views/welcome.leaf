@@ -2,12 +2,15 @@
 
 #export("title") { Alex Rudavka }
 
+#export("css") {
+    <link rel="stylesheet" href="/styles/bootstrap.min.css">
+    <link rel="stylesheet" href="/styles/app.css">
+}
+
 #export("content") {
 <body id="grad">
 
 <div class="macbook">
-    <div class="container">
-    </div>
 </div>
 
 <div class="container" >
@@ -23,6 +26,10 @@
     <div class="text smallest">
     Currently I live in <b>Cambridge</b>, Ontario, Canada🇨🇦 and work at <a target="_blank" href="https://www.reebee.com">reebee</a>. <br/>I moved here recently (August 2016), before that I lived in <b>Kiev</b>, Ukraine🇺🇦.
     </div>
+    <div class="portfolio-link">
+        <a href="/portfolio"><h1>P O R T F O L I O</h1></a>
+    </div>
+
 
     <div class="column">
     <div class="hover">
@@ -59,6 +66,7 @@
     <img src="vector_logos_inverted//instagram.png"></a>
     </div>
     </div>
+    
     <!---
     <div class="moreinfo">
     More info below<br>

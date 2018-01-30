@@ -9,6 +9,11 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+body b {
+    color: beige;
+}
+
 .macbook {
     background-image: initial;
     background: url(../images/macbook.jpg) no-repeat;
@@ -26,6 +31,14 @@ body {
 .moreinfo img {
     margin-top: 30px;
     width: 90px;
+}
+
+.portfolio-link {
+    color: white;
+}
+
+.portfolio-link a {
+    color: white;
 }
 
 .text {

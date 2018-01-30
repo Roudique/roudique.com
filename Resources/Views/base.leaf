@@ -2,7 +2,9 @@
 <html>
 <head>
 	<title>#import("title")</title>
-	<link rel="stylesheet" href="/styles/app.css">
+
+    #import("css")
+
 </head>
 <body>
 

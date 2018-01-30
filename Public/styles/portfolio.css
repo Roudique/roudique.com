@@ -1,0 +1,78 @@
+.jumbotron {
+    color: lightslategray;
+    background-color: beige;
+}
+
+.jumbotron a {
+    color: lightslategray;
+}
+
+body {
+    background-color: lightslategray;
+    color: beige;
+    font-family: Avenir-Roman;
+}
+
+body a {
+    color: azure;
+}
+
+/*
+        Project description
+ */
+
+.proj-description {
+    padding-top: 25px;
+}
+
+.brief {
+    font-size: 18px;
+}
+
+.my-role {
+    font-size: 18px;
+}
+
+.my-role h3 {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.technologies {
+    font-size: 18px;
+}
+
+.technologies h3 {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.app-icon {
+    width: 90px;
+    display: inline;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+h2 {
+    font-family: Avenir-Roman;
+    font-size: 50px;
+    display: inline;
+    margin-left: 30px;
+    vertical-align: middle;
+}
+
+.proj-description img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    -webkit-transform:translate3d(0,0,0);
+}
+.proj-description img:hover {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+
+
