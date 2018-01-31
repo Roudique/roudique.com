@@ -9,8 +9,5 @@ extension Droplet {
             return try self.view.make("welcome")
         }
         
-        self.get("portfolio") { request in
-            return try self.view.make("portfolio")
-        }
     }
 }
