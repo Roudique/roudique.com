@@ -282,6 +282,9 @@ ul.banner-social-buttons {
     transform: scale(1.3);
 }
 
+.under-construction {
+    padding-top: 150px;
+}
 
 /****************************************
                 PORTFOLIO
@@ -329,13 +332,13 @@ ul.banner-social-buttons {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 300px;
+    padding-bottom: 300px;
 }
 
 .contact-column {
-    float: left;
-    width: 20%;
+    display: inline-block;
+    margin: 0px 10px 0px 10px;
 }
 
 .contact-column img {
