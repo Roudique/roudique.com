@@ -3,7 +3,7 @@
 #export("title") { Alex Rudavka }
 
 #export("css") {
-    <link rel="stylesheet" href="/styles/bootstrap.min.css">
+    <link rel="stylesheet" href="/styles/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="/styles/app.css">
 }
 
@@ -32,40 +32,42 @@
 
 
     <div class="column">
-    <div class="hover">
-    <a target="_blank" href="https://www.twitter.com/roudique" >
-    <img src="vector_logos_inverted/twitter-vector.png"></a>
-    </div>
+        <div class="hover">
+        <a target="_blank" href="https://www.twitter.com/roudique" >
+        <img src="vector_logos_inverted/twitter-vector.png"></a>
+        </div>
     </div>
 
-
-    <div class="column">
-    <div class="hover">
-    <a target="_blank" href="https://github.com/roudique">
-    <img src="vector_logos_inverted//github-vector.png"></a>
-    </div>
-    </div>
 
     <div class="column">
-    <div class="hover">
-    <a target="_blank" href="https://www.linkedin.com/in/roudique">
-    <img src="vector_logos_inverted//in.png"></a>
-    </div>
+        <div class="hover">
+        <a target="_blank" href="https://github.com/roudique">
+        <img src="vector_logos_inverted//github-vector.png"></a>
+        </div>
     </div>
 
     <div class="column">
-    <div class="hover">
-    <a target="_blank" href="https://facebook.com/roudique">
-    <img src="vector_logos_inverted//facebook.png"></a>
-    </div>
+        <div class="hover">
+        <a target="_blank" href="https://www.linkedin.com/in/roudique">
+        <img src="vector_logos_inverted//in.png"></a>
+        </div>
     </div>
 
     <div class="column">
-    <div class="hover">
-    <a target="_blank" href="https://instagram.com/roudique">
-    <img src="vector_logos_inverted//instagram.png"></a>
+        <div class="hover">
+        <a target="_blank" href="https://facebook.com/roudique">
+        <img src="vector_logos_inverted//facebook.png"></a>
+        </div>
     </div>
+
+    <div class="column">
+        <div class="hover">
+        <a target="_blank" href="https://instagram.com/roudique">
+        <img src="vector_logos_inverted//instagram.png"></a>
+        </div>
     </div>
+    
+    
     
     <!---
     <div class="moreinfo">
