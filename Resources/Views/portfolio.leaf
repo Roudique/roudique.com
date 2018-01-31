@@ -99,19 +99,19 @@
                 
                 <div class="row portfolio-row">
                     
-                    <div class="col-md-6 phone"><img class="img-responsive" src="screenshots/reebee.png"></div>
+                    <div class="col-md-6 phone">
+                        <img class="img-responsive" src="screenshots/reebee.png">
+                    </div>
                     
                     <div class="col-md-6">
-                        
                         <div class="portfolio-top">
                             <a href="https://itunes.apple.com/ca/app/reebee/id558297215?mt=8" target="_blank">
+                                
                             <div class="hover">
-                            <img src="appicons/appicon_reebee.png" class="app-icon"></a>
-                            
-                            <div class="portfolio-title">reebee</div>
-                        </div>
-
-                        </div>
+                                <img src="appicons/appicon_reebee.png" class="app-icon"></a>
+                                    <div class="portfolio-title">reebee</div>
+                                    </div>
+                            </div>
                     <p>I work on <a href="https://www.reebee.com/" target="_blank">reebee</a> iOS application fulltime. Right now app is #15 in Shopping Category on Canada's App Store. </p><p>Reebee is a platform for digital flyers. Application simplifies shopping for user making flyers from nearby stores easily accessible. More than 1 million people use reebee every month, half of that number is iOS application users which adds great responsibility for preparing each release.</p>
                         
                         <div class="portfolio-subtitle">My Role:</div>
@@ -127,14 +127,65 @@
                         
                     </div>
                 </div>
-                
-
-                
-                
-                
             </div>
         </div>
     </section>
+    
+
+<!-- Contact Section -->
+<section id="contact" class="contact-section text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <h2>Contact </h2>
+                <p>Feel free to contact me via any links below or <a href="mailto:roudique@gmail.com">EMAIL ME</a></p>
+
+
+                    <div class="contact-column">
+                        <div class="hover">
+                            <a target="_blank" href="https://www.twitter.com/roudique" >
+                                <img src="vector_logos_inverted/twitter-vector.png"></a>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="contact-column">
+                        <div class="hover">
+                            <a target="_blank" href="https://github.com/roudique">
+                                <img src="vector_logos_inverted//github-vector.png"></a>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-column">
+                        <div class="hover">
+                            <a target="_blank" href="https://www.linkedin.com/in/roudique">
+                                <img src="vector_logos_inverted//in.png"></a>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-column">
+                        <div class="hover">
+                            <a target="_blank" href="https://facebook.com/roudique">
+                                <img src="vector_logos_inverted//facebook.png"></a>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-column">
+                        <div class="hover">
+                            <a target="_blank" href="https://instagram.com/roudique">
+                                <img src="vector_logos_inverted//instagram.png"></a>
+                        </div>
+                    </div>
+
+
+
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
     
     <!-- Bootstrap core JavaScript -->
